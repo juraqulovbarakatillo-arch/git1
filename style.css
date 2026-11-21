@@ -1,0 +1,162 @@
+.a{
+    margin:20px;
+    display: flex;
+    justify-content: space-around;
+}
+.a1{
+    word-spacing:20px;
+}
+.a2{
+    color: black;
+    text-decoration: none;
+}
+.a3{
+    padding: 20px 40px;
+    border-radius:10px;
+    background-color: #FF7143;
+    color:whitesmoke;
+}
+.a5{
+    margin-top: 5%;
+    display: flex;
+    justify-content: space-around;
+}
+.a6{
+margin-top:5%;
+margin-left: 5%;
+}
+.a7{
+   font-size:60px;
+}
+.a8{
+    width: 45%;
+    font-size: 20px;
+}
+.a9{
+    margin: 5px;
+    margin-top:5px;
+    padding:20px 40px;
+    background-color:#5454D4;
+    color: whitesmoke;
+    border-radius: 10px;
+}
+.a11{
+    margin-top: 5%;
+   display: flex;
+   justify-content: space-around; 
+}
+.a12{
+    margin-top: 5%;
+    display: flex;
+    justify-content: space-around;
+}
+.a13{
+    width: 45%;
+}
+.a14{
+    font-size: 40px;
+}
+.a15{
+    width: 45%;
+    font-family:20px;
+}
+.a16{
+    color: #5454D4;
+    font-size: 20px;
+}
+.a17{
+    margin-top: 5%;
+   display: flex;
+   justify-content: center;
+}
+.a18{
+    width:45%;
+}
+.a19{
+    font-size: 60px;
+}
+.a20{
+    font-size: 20px;
+    width: 45%;
+}
+.a21{
+    color: #5454D4;
+    font-size:20px;
+}
+.a23{
+    margin-top: 5%;
+    display: flex;
+    justify-content: space-around;
+}
+.a24{
+    width:30%;
+    text-align: center;
+}
+.a25{
+    width:30%;
+    text-align: center;
+}
+.a26{
+    width:40%;
+    text-align: center;
+}
+.f1 {
+    margin-top: 5%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 32px;
+    }
+    .f2{
+        padding:15px 30px;
+        background-color: #5454D4;
+        color: whitesmoke;
+        border-radius:10px;
+    }
+    .f22{
+      padding: 15px 30px;
+      border-radius:10px;
+    }
+.f3 {
+    display: flex;
+    gap: 10px;
+    margin-top: 50px;
+}
+
+.f4, .f5, .f6 {
+    width: 33.3%;
+    text-align: center;
+    padding: 20px 30px;
+    border-radius: 7px;
+}
+.f4 p,
+.f5 p,
+.f6 p {
+    font-size: 10px;
+    margin: 18px 0;
+    color: #777;
+}
+
+.f4 button, .f5 button, .f6 button {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 6px;
+    background: white;
+    color: blue;
+}
+
+.f5 {
+    background: coral;
+    color: white;
+}
+
+.f5 h1, .f5 p {
+    color: white;
+}
+
+.f5 button {
+    background: brown;
+    color: white;
+}
+
